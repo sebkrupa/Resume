@@ -72,6 +72,8 @@ I've decided to shorten (a lot) my resume, but also to keep an additional info f
     - pgAdmin
     - DB Browser for SQLite
     - Azure Data Studio
+- Microservices
+  - Docker
 - Systems
   - Windows
   - Linux
@@ -133,15 +135,14 @@ I've decided to shorten (a lot) my resume, but also to keep an additional info f
 
 ## Portfolio
 
-- Full KPI system for the company indicators with weekly and monthly consolidated reports.
-- Consolidated report of current and future machine workload based on individual projects, production plans and client’s EDI. Report allows more efficient production planning and possibility of modernizing current machine park.
-- Defining critical components basing on current consumption, BOM and component’s lead time. System prevents from sudden and unexpected lack of the most important components, which may lead to factory downtime.
-- Error proofing system for shipment containers. Users are using 2D scanner to verify if container has valid amount and valid reference inside. Verified containers are then validated by shift leaders. After that, container may be sent to the customer. System registers every change made to the container, which allows for the full traceability.
-- Kanban application for production leaders for ordering containers to work cells which are then delivered by warehouse.
-- Universal system for recurring meetings and task assignment. System has mailer that informs employees about unfinished tasks, sends daily meeting minutes and archives them to the PDF for audit purposes.
-- Cloth assignment system for HR, that automates ordering and assigning new
-equipment.
-- Skill matrix for HR. System aggregates data regarding worker’s skills on machines and consolidated reports for management. System also provides standardized skill verification for trainers, which ends with generating report about successful of failed increase of competence.
-- Timesheet evidence and analysis for production employees with automated reports for HR, Safety and Management.
-- Centralized Action plan system for task assignment for separate sites to manage large tasks such as production transfer or new project development. System works in background as a desktop app and pops up updates on our current tasks. It provides chat and data archive for audit purposes.
-- Constant Improvement ideas aggregation system for production workers. System works as a standalone kiosk. For each idea there is automated workflow where management may check if idea is innovative and accept it. Employees may check the status in the kiosk.
+- Comprehensive KPI system for tracking company indicators, featuring weekly and monthly consolidated reports for informed decision-making.
+- Advanced machine workload report, consolidating current and future workloads based on individual projects, production plans, and client EDI, enabling efficient production planning and potential modernization of the machine park.
+- Critical component identification system based on consumption, BOM, and lead times, preventing unexpected shortages and factory downtime.
+- Error-proofing system for shipment containers, utilizing 2D scanners for verification and traceability, ensuring accurate and secure deliveries to customers.
+- Kanban application streamlining container ordering and delivery for production leaders and warehouses.
+- Versatile recurring meeting and task assignment system, featuring email reminders, daily meeting minute distribution, and PDF archiving for audit purposes.
+- Automated cloth assignment system for HR, streamlining equipment ordering and allocation.
+- Skill matrix solution for HR, aggregating worker skill data and providing standardized verification, generating comprehensive reports on competence development.
+- Timesheet management and analysis system for production employees, with automated reports for HR, Safety, and Management.
+- Centralized Action Plan system for multi-site task assignment, facilitating large-scale projects such as production transfers or new project development, featuring chat and data archiving for audits.
+- Continuous Improvement idea aggregation system for production workers, utilizing a standalone kiosk with automated workflows for idea evaluation and tracking, fostering a culture of innovation.
